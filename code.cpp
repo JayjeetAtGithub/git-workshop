@@ -5,5 +5,5 @@ int main()
 {
     int a = 3;
     int b = 5;
-    cout << "Addition : " << a + b << endl;
-}
+    cout << "Addition : " << a << " + " << b << " = " << a + b << endl;
+} 
